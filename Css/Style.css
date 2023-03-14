@@ -1,7 +1,7 @@
 /* Regole Intestazione */
 
 body{
-    background-color:#CFD0D1;
+    background-color:#EEEEE0;
 }
 
 
@@ -25,8 +25,9 @@ header{
 
 #Container{
     background-color:white;
-    margin: 50px;;
+    margin: 80px;;
     padding: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
    
    
@@ -57,6 +58,8 @@ section{
     padding: 5px 10px;
     border: 1px solid #C6CCD1;
 }
+
+/* Regole Principali  */
 
 h2{
     padding-top: 2px;
