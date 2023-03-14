@@ -1,0 +1,69 @@
+/* Regole Intestazione */
+
+body{
+    background-color:#CFD0D1;
+}
+
+
+header{
+    background-color:white;
+}
+
+#Logo {
+    height: 50px;
+    width: auto;
+    vertical-align: middle;
+}
+
+#Logo-Text {
+    font-size: 40px;
+    
+   
+}
+
+/* Regole parte principale */
+
+#container{
+    background-color:rgb(247, 24, 24);
+    width:
+}
+   
+    
+/* Regole Bottoni */
+
+section{
+    margin-bottom: 30px;
+}
+
+#button{
+    padding-bottom: 10px;    
+    border-bottom: 1px solid #C6CCD1;
+}
+
+#primo-bottone{
+    background-color: #14AAF5;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: 1px solid #14AAF5;
+}
+
+#secondo-bottone{
+    color: #C6CCD1;
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: 1px solid #C6CCD1;
+}
+
+h2{
+    padding-top: 2px;
+    
+}
+
+
+    
+
+
+
+
